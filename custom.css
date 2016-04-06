@@ -1,0 +1,53 @@
+#landing {
+    width: 90%;
+    margin-left: 5%;
+    min-height: 600px;
+}
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+body,
+html {
+    font-family: 'Lato', sans-serif;
+    text-rendering: optimizeLegibility !important;
+    -webkit-font-smoothing: antialiased !important;
+    color: #5a5a5a;
+}
+
+.jumbotron {
+    background: url(balloon-1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    color: #cfcfcf;
+    margin: 0 auto;
+    font-family: 'Lato', sans-serif;
+    text-align:center;
+    opacity:1;
+}
+
+
+#tf-info
+{
+   width: 90%;
+    margin-left: 5%;
+    min-height: 400px;  
+    font-family: sans-serif;
+    color: #96C8F3;
+}
+
+#tf-Testimonials {
+    
+    width: 90%;
+    margin-left: 5%;
+    min-height: 400px;  
+    font-family: sans-serif;
+    color:lightblue;
+    
+}
