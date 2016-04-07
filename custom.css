@@ -17,10 +17,12 @@ html {
     text-rendering: optimizeLegibility !important;
     -webkit-font-smoothing: antialiased !important;
     color: #5a5a5a;
+     font-weight: 700;
+    letter-spacing: 1px;
 }
 
 .jumbotron {
-    background: url(balloon-1.jpg);
+    background: url(images/balloon-1.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -28,9 +30,63 @@ html {
     color: #cfcfcf;
     margin: 0 auto;
     font-family: 'Lato', sans-serif;
-    text-align:center;
-    opacity:1;
-    width:100%;
-   
-    
+    text-align: center;
+    opacity: 1;
+    width: 100%;
+}
+
+#tf-info {
+    width: 90%;
+    margin-left: 5%;
+    min-height: 800px;
+    font-family: sans-serif;
+    color: #96C8F3;
+}
+
+#tf-Testimonials {
+    width: 90%;
+    margin-left: 5%;
+    min-height: 800px;
+    font-family: sans-serif;
+    color: lightblue;
+}
+
+#tf-Contact {
+    width: 90%;
+    margin-left: 5%;
+    min-height: 800px;
+}
+
+
+
+#balloon1 {
+    height: 800px;
+    background-image: url(images/balloon-2.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#balloon2 {
+    height: 800px;
+    background-image: url(images/balloon-3.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#balloon3 {
+    height: 800px;
+    background-image: url(images/balloon-4.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#balloon4 {
+    height: 800px;
+    background-image: url(images/balloon-5.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
