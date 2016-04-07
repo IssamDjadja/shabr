@@ -132,7 +132,7 @@ h3 {
 /*info*/
 
 #info {
-    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/balloon-2.jpg') no-repeat center fixed;
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../balloon-2.jpg') no-repeat center fixed;
     background-size: cover;
 }
 
