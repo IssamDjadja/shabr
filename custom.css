@@ -21,7 +21,7 @@ html {
     letter-spacing: 1px;
 }
 
-.jumbotron {
+#home {
     background: url(images/balloon-1.jpg);
     background-size: cover;
     background-position: center;
@@ -95,3 +95,20 @@ html {
     color:#01FF70;
 }
 
+#pic{
+     background: url(images/air.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    opacity: 1;
+width:100%;
+    height:100%;
+}
+
+#inner{
+   width: 105%;
+    margin: 1 auto; 
+
+}
