@@ -142,11 +142,11 @@ html {
 }
 
 #image {
-    background: url(images/air.jpg) no-repeat center fixed;
+    background: url(images/hot-air-balloon.jpg) no-repeat center fixed;
     width: 100%;
     height: 100%;
     background-size: 100% 100%;
-    color: #00FFFF;
+    text-shadow: 2px 2px #080000;
 }
 #custom-background{
     background-color:#005950;
